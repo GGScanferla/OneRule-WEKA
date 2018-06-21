@@ -1,0 +1,5 @@
+Nomes: Gabriel Garcia Scanferla - 29880
+       Gabriel Alves Moreira - 2017005113
+       Gabriel de Faria Castro Moreira - 30388
+
+Arquivos .arff em anexo, oneRuleIA.jar funciona, utilizar o executavel.bat
